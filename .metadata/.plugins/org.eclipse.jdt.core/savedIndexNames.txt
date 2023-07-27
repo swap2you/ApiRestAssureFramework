@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\swap2\Documents\GitHub\ApiRestAssureFramework\.metadata\.plugins\org.eclipse.jdt.core
+726100880.index
+2672092779.index
+1918429835.index
+3289987405.index
+2497581564.index
+1437335081.index
+2533279539.index
